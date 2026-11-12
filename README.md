@@ -12,8 +12,8 @@ It's a program, not a website: double-click the downloaded file. If Windows says
 
 Strona / Website: https://cybersora.pl/soraflux/ · [Polityka prywatności / Privacy policy](https://cybersora.pl/soraflux/#prywatnosc)
 
-Masz SoraFlux 1.4? Pobierz 2.0 raz stąd i zainstaluj na starą wersję (ustawienia zostają); kolejne aktualizacje przyjdą same.
-Using SoraFlux 1.4? Download 2.0 once from here and install over it (settings are kept); later updates arrive automatically.
+Masz SoraFlux 1.4? Pobierz 2.0 raz stąd i zainstaluj na starą wersję (ustawienia zostają); kolejne wersje zainstalujesz z apki: Ustawienia → Sprawdź aktualizacje.
+Using SoraFlux 1.4? Download 2.0 once from here and install over it (settings are kept); later versions install from the app: Settings → Check for updates.
 
 ## Bezpieczeństwo / Security
 
