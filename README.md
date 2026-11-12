@@ -22,7 +22,7 @@ Pobieraj tylko stąd albo z [cybersora.pl/soraflux](https://cybersora.pl/soraflu
 SHA-256 `SoraFlux-setup.exe` 2.0.0:
 
 ```
-ED722756CD267E3C1EB45A8BF5E367330F4F48D9C72F67C99242418A5F4F8BC8
+B6DB3B84FABAD78E54A0DD7BE0B6E6074EA17243BAF9B0BD02AC68DD3BEEC88E
 ```
 
 Sprawdź w PowerShellu / Check in PowerShell: `Get-FileHash .\SoraFlux-setup.exe`. Sumy wszystkich plików są w `SHA256SUMS.txt` przy każdym wydaniu. Aktualizacje w apce są podpisane kluczem, którego publiczna część jest wbudowana w program. / In-app updates are signed; the public key is built into the app.
